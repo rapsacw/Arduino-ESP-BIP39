@@ -14,6 +14,6 @@ Generate the data from names, common street slang, any previously published rema
 >Google your passphrase and you are unsafe.<
 If you do want to use a passphrase you best use at least one word that is not in any dictionary, e.g.
 The quick brown fox jumps over the lazy dog -> Your bitcoin is gone faster than you can type this in.
-The quick brown foxy-girl jumps over the lazy dog -> you are probably safe
+The quick brown foxy-girl jumps over the lazy dog -> you are probably safe.
 The slow moving heffalumpski jumps over the lazy dog -> good luck to all brute forcers out there!
 It would be even better to not have your passphrase have any likeness to things said/used before. 
