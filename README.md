@@ -10,7 +10,7 @@ Disadvantage: allows you to remember an easy to brute force and thus unsafe pass
 To use any user supplied entropy and be safe you will have to use your wits. Generate the data from dice rolls etc. and you are safe,
 but you won't be able to remember what you rolled.
 Generate the data from names, common street slang, any previously published remark etc. and you are unsafe.
->Google your passphrase and you are unsafe.<
+Google your passphrase and you are unsafe!
 
 If you do want to use a passphrase you best use at least one word that is not in any dictionary, e.g.
 The quick brown fox jumps over the lazy dog -> Your bitcoin is gone faster than you can type this in.
