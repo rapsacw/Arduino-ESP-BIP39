@@ -1,7 +1,6 @@
 # Arduino-ESP-BIP39
 
-Arduino + ESP8266/ESP32 Bip39 compatible mnemonic word generator for user supplied entropy of ANY kind.
-Reason for creating this test file: *I* can't get bip39 conform results using other implementations (trezor/ubitcoin).
+Arduino + ESP8266/ESP32 Bip39 compatible mnemonic word generator from user supplied entropy of ANY kind.
 
 Extract: use sha256 on your passphrase, password or binary file to create a BIP39 compatible word list.
 
@@ -12,6 +11,7 @@ To use any user supplied entropy and be safe you will have to use your wits. Gen
 but you won't be able to remember what you rolled.
 Generate the data from names, common street slang, any previously published remark etc. and you are unsafe.
 >Google your passphrase and you are unsafe.<
+
 If you do want to use a passphrase you best use at least one word that is not in any dictionary, e.g.
 The quick brown fox jumps over the lazy dog -> Your bitcoin is gone faster than you can type this in.
 The quick brown foxy-girl jumps over the lazy dog -> you are probably safe.
